@@ -3,7 +3,7 @@
 <div>
 <p>Estudante</p> 
 
-<p> Estou cursando o curso de multimídia na Escola SENAI de Informática. </p>
+<p> Estou cursando o curso de análise e desenvolvimento de sistemas na FIAP. </p>
 </div>
 
 <div>
