@@ -16,8 +16,6 @@
 
   <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
-   <img align="center"  alt="Premiere logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  />
 </div>
 
 
@@ -25,7 +23,7 @@
 
 <div>
   <h2> Como me contatar</h2>
-  <a href = "mailto:riquepersa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:soarespehenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
           
