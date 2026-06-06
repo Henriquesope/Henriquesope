@@ -41,6 +41,11 @@
 
 ---
 
+## Organizações
+ 
+[![Challenge-LoyaltyPlatform](https://img.shields.io/badge/LoyaltyPlatform-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Challenge-LoyaltyPlatform)
+[![Gs-AgroMap](https://img.shields.io/badge/AgroMap-FFB81C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gs-AgroMap)
+
 ##  GitHub Stats
 
 ![Estatísticas do Henrique](https://github-readme-stats.vercel.app/api?username=Henriquesope&show_icons=true&theme=tokyonight&hide_border=true)
