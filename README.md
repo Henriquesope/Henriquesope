@@ -1,8 +1,6 @@
 # Olá, eu sou o Henrique 👋
 
-Estagiário em **Desenvolvimento de Software na Evo Systems**, onde trabalho no back-end de uma API com **.NET / C# e ASP.NET**.
-Estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (conclusão em 2027), técnico em Multimídia pelo SENAI e **desenvolvedor front-end freelancer**.
-Gosto de construir projetos práticos e publicados — de APIs a sites para clientes reais.
+Estagiário em **Desenvolvimento de Software na Evo Systems**
 
 ---
 
